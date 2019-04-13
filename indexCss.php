@@ -1,4 +1,3 @@
-
 <?php
 require_once "icl/header.php";
 ?>
@@ -9,16 +8,13 @@ require_once "icl/header.php";
 
         <div class="input">
         <!-- button field -->
-        <h1>fix opslag</h1>
-
-        
-        <input id="testInputField" type="text">
-        <button onclick="changeBackground()" id="backgroundColor">background color</button>
+        <h1>andy had toch gelijk</h1>
         </div>
 
         <div class="readme">
         <!-- text that tells you what to do -->
-        <h1>hier oke ...</h1>
+        <h1>ma zeg hem da nie he</h1>
+
         </div>
     </div>
 

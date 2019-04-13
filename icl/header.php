@@ -7,19 +7,14 @@ session_start();
     <meta charset="UTF-8">
     <title>PHP SQL Login Page test</title>
     <link rel="stylesheet" href="css/main.css">
-    <script src="jquery-3.4.0.js"></script>
 </head>
 <body>
 <header>
     <nav>
-        <a href="index.php">
-            <img src="" alt="BeCode opendeur">
-        </a>
         <ul id="headerLinks" >
-            <li>Home</li>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>JavaScript</li>
+            <li ><a href="index.php">HTML</a></li>
+            <li ><a href="indexCss.php">CSS</a></li>
+            <li ><a href="indexJs.php">JavaScript</a></li>
         </ul>
         <div>
         </div>

@@ -1,0 +1,33 @@
+.vierkant{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    background: red;
+    width: 100vw;
+    height: 100vh;
+}
+
+.left{
+    display:grid;
+    grid-template-rows: 1fr 1fr;
+    background: black;
+}
+
+.input{
+    background: blue;
+}
+
+.readme{
+    background: blueviolet;
+}
+
+.right{
+    background: green;
+}
+#headerLinks{
+    display: flex;
+    background-color: grey;
+    margin : 0;
+}
+#headerLinks>li{
+    margin-left : 35px;
+}

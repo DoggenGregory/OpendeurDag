@@ -1,4 +1,6 @@
+
 .vierkant{
+    overflow: hidden;
     display:grid;
     grid-template-columns: 1fr 1fr;
     background: red;
@@ -7,21 +9,15 @@
 }
 
 .left{
-    display:grid;
-    grid-template-rows: 1fr 1fr;
-    background: black;
-}
-
-.input{
-    background: blue;
-}
-
-.readme{
-    background: blueviolet;
+    background-color: red;
+    color:white;
+    overflow-x: auto;
 }
 
 .right{
-    background: green;
+    background-color: green;
+    
+    
 }
 #headerLinks{
     display: flex;
